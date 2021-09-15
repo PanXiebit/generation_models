@@ -1,4 +1,4 @@
-# generation_models
+# Generative Models
 
 ### VAEs
 simple implementation of AE, VAE and VQ-VAE.
