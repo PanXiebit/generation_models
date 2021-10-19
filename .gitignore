@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 vaes/data
 __pycache__
+gans/MNIST
+gans/lightning_logs
