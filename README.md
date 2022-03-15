@@ -13,6 +13,9 @@ simple implementation of AE, VAE and VQ-VAE.
 ### Transformers
 - [ ] Autoregressive Transformer
 - [ ] Non-autoregressive Transformer
+- [ ] Left2Right Decoder
+- [ ] Mask-Predict
+- [ ] RQ-Transformer(https://arxiv.org/pdf/2203.01941.pdf)
 
 ### some tricks
 - [x] [gumbel-softmax](https://github.com/PanXiebit/generation_models/blob/main/tricks_for_generation_task/gumbel-softmax.ipynb)
